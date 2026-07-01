@@ -11,7 +11,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 <br> <br> <br> 
 # 工作模式介绍
-maicrodx controller (以下简称mdxc) 共有两个模式，目前没有办法热切换，需要依据使用场景来确定方案
+maicrodx controller (以下简称mdxc) 共有两个模式，目前没有办法热切换，建议先依据使用场景确定方案后再开始制作
 <br> **短接STBY=A_mode 断路=B_mode**
 <br>
 <br>
