@@ -12,7 +12,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 <br> <br> <br> 
 # 工作模式介绍
 maicrodx controller (以下简称mdxc) 共有两个模式，目前没有办法热切换，需要依据使用场景来确定方案
-<br> 在PCB上短接STBY_mode=A,断路=B
+<br> **短接STBY=A_mode 断路=B_mode**
 <br>
 <br>
 A_mode:一体化模式，cc线直连轮盘与设备。用"纳米"胶布把轮盘贴在在平板上游玩 (短接STBY焊盘) 便携首选
