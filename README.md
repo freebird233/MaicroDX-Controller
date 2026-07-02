@@ -1,13 +1,13 @@
 # MaicroDX-Controller
 基于CH552的一体化圆形控制轮盘，适配大多数的11英寸平板与MaicroDX框体
 <br> <br> <br> 
-# 施工中...
+**施工中...** <br>
 最后更新 2026.7.2
  <br> <br> 
 [MaicroDX技术交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
  <br> <br> 
  
-关于许可
+#关于许可
 -----
 我在个人时间内制作了这个项目，没有任何经济利益或赞助。我将继续改进这个项目。我已尽我所能确保所有内容的准确性和功能性，但总有可能出现错误。如果你因使用这个开源项目而造成时间或金钱的损失，我不能负责。感谢你的理解。MaicroDX遵循 by-nc-sa规则 。所以你只能给自己和你的朋友 DIY，不能利用这个项目赚钱，比如收费的代做，出售整机等,注意团购和拼单订购原始元器件是合理的，非盈利的方式卖掉剩余的元器件也是可以接受的。
 https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -67,10 +67,11 @@ https://github.com/user-attachments/assets/6a8587d2-b886-4417-bf86-0edc023bd731
 在官网下载烧录软件<br>
 在Release下载.hex固件程序<br>
     （1~8号键输出cxzaqwed,9号键为3.同时长按3456键400ms在选曲灯效与游戏灯效之间切换，长按7812键400ms进入彩虹渐变灯效模式，退出请长按3456）<br>
+**上电前务必用万用表测量5V与GND焊盘是否短接，以免对设备造成损害**<br>
 将板子接入电脑，此时会显示出设备名<br>
 点击烧录<br>
 完成烧录<br>
-检查信号灯是否依次亮起<br>
+检查信号灯是否依次亮起（就像上面的视频）由于WS2812的串联信号传输特性，当一个灯珠信号脱焊，会导致后面的所有灯熄灭。<br>
 短接各按键的两个焊盘，检查是否有输出<br>
 
 
