@@ -7,6 +7,7 @@
 **· 存在的问题:**  6键无冲，非回馈式灯光，留待发现
 <br> <br> 
 **施工中...** <br>
+截至目前说明文件尚未完成，如果您在过程中遇到了问题，请在群聊内提问，不要在issue区留言<br>
 最后更新 2026.7.3
  <br> <br> 
 [MaicroDX技术交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
