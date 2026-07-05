@@ -1,25 +1,20 @@
 # MaicroDX-Controller
 基于CH552的一体化圆形控制轮盘，适配大多数的11英寸平板与[MaicroDX框体](https://github.com/freebird233/MaicroDX)
+
 <br>
 <br>
 **· 特点:**  一体化主控；全彩灯效；所有内容开源；
 <br>
 **· 存在的问题:**  仅6键无冲；非回馈式灯光；留待发现；
 <br> <br> 
-**施工中...** <br>
-截至目前说明文件尚未完成，如果您在过程中遇到了问题，请在群聊内提问，不要在issue区留言<br>
-最后更新 2026.7.3
- <br> <br> 
-[MaicroDX技术交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
- <br> <br> 
- 
-# 关于许可
------
-我在个人时间内制作了这个项目，没有任何经济利益或赞助。我将继续改进这个项目。我已尽我所能确保所有内容的准确性和功能性，但总有可能出现错误。如果你因使用这个开源项目而造成时间或金钱的损失，我不能负责。感谢你的理解。MaicroDX系列遵循 [by-nc-sa规则](https://creativecommons.org/licenses/by-nc-sa/4.0/) 。所以你只能给自己和你的朋友 DIY，不能利用这个项目赚钱，比如收费的代做，出售整机等,注意团购和拼单订购原始元器件是合理的，非盈利的方式卖掉剩余的元器件也是可以接受的。
-<br> <br> <br> 
-# 特别感谢
 
-<br>
+
+[MaicroDX技术交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
+ <br> <br> <br>
+
+ # 特别感谢
+
+
 
 - __@Fandorabox__ 为本项目命名 <br>
 
@@ -28,6 +23,13 @@
 - **嘉立创 & 嘉立创eda** 为个人创作者降本增效 <br>
 
 <br> <br> <br> 
+
+
+# 关于许可
+
+我在个人时间内制作了这个项目，没有任何经济利益或赞助。我将继续改进这个项目。我已尽我所能确保所有内容的准确性和功能性，但总有可能出现错误。如果你因使用这个开源项目而造成时间或金钱的损失，我不能负责。感谢你的理解。MaicroDX系列遵循 [by-nc-sa规则](https://creativecommons.org/licenses/by-nc-sa/4.0/) 。所以你只能给自己和你的朋友 DIY，不能利用这个项目赚钱，比如收费的代做，出售整机等,注意团购和拼单订购原始元器件是合理的，非盈利的方式卖掉剩余的元器件也是可以接受的。
+<br> <br> <br> 
+
 # 工作模式介绍
 maicrodx controller (以下简称mdxc) 共有两个模式，请依据使用场景确定方案后再开始制作<br>
 <br> 
