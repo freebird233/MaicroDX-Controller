@@ -1,4 +1,4 @@
-```markdown
+
 # MaicroDX-Controller
 An integrated circular control wheel based on CH552, compatible with most 11-inch tablets and the [MaicroDX frame](https://github.com/freebird233/MaicroDX)
 
