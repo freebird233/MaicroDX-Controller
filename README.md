@@ -33,7 +33,7 @@
 <br> <br> <br> 
 
 # 工作模式介绍
-maicrodx controller (以下简称mdxc) 共有两个模式，请依据使用场景确定方案后再开始制作<br>
+maicrodx controller (以下简称mdxc) 共有两个模式，请依据你的使用场景确定方案后再开始制作<br>
 <br> 
 <br>
 
