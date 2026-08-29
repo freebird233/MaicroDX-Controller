@@ -2,6 +2,9 @@
 基于CH552的一体化圆形控制轮盘，适配大多数的11英寸平板与[MaicroDX框体](https://github.com/freebird233/MaicroDX)
 
 <br>
+<img width="1706" height="1279" alt="微信图片_20260829091343_406_32" src="https://github.com/user-attachments/assets/c2c248a8-92c8-4c1a-8034-433d22c199fd" />
+
+
 <br>
 
  **特点:**  一体化主控；全彩灯效；所有内容开源；
