@@ -42,7 +42,7 @@ maicrodx controller (以下简称mdxc) 共有两个模式，请依据你的使�
 
 | **A_mode**  (短接STBY) | B_mode （开路STBY） |
 | :--- | :--- |
-| 一体化模式，便携首选。cc线直连轮盘与设备。用"纳米"胶布把轮盘贴在在平板上游玩 (**焊接所有元器件**) | 外接控制模式, 搭配[Maicrodx框体](https://github.com/freebird233/MaicroDX)使用,**只焊ws2802灯珠与FPC底座**,连接到外部控制板(适配V2版模型的80%缩放尺寸) |
+| 一体化模式，便携首选。cc线直连轮盘与设备。用"纳米"胶布把轮盘贴在在平板上游玩 (**焊接所有元器件**) | 外接控制模式, 搭配[Maicrodx框体](https://github.com/freebird233/MaicroDX)使用,**只焊ws2802灯珠与FPC底座**,连接到外部控制板 |
 <br>
 <br> 
 <img width="270"  alt="_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=5978720347427026372 skey=@crypt_5b51cbfd_c97b3b7ed41217eeedefb33553f2231f mmweb_appid=wx_webfilehelper" src="https://github.com/user-attachments/assets/31d41ac2-2bd1-482f-ad18-089340bdea1b" />
@@ -82,7 +82,7 @@ maicrodx controller (以下简称mdxc) 共有两个模式，请依据你的使�
 它由两部分组成: "外壳" "外壳底板" 使用切片软件内的拆分功能，单独打印。(过盈配合) <br> 
 外壳有比较大的悬空区域，在打印时，最好用不同材料的耗材作为支撑接触面。例如:PLA作为PETG的支撑 <br>
 按键同理 <br>
-(后续我会上传3MF文件) <br>
+ <br>
 
 <br> <br>
 # 4.焊接元器件
