@@ -91,8 +91,11 @@ maicrodx controller (以下简称mdxc) 共有两个，请依据你的使用场�
 如果使用回流焊工艺，请注意FPC底座在板子的底面
 <br>
 <br>
-如果使用外接控制板，圆盘pcb只焊接灯光与FPC底座，其余的元器件如图所示<br>
-<img width="480" alt="abd05224c374d1d27d987409a571683e" src="https://github.com/user-attachments/assets/f13a7d16-cb30-456b-a744-40a4c49857ca" />
+如果使用外接控制板，圆盘pcb只焊接灯光与FPC底座，
+
+> 关于外接控制板的复刻教程请参照MaicroDX的项目readme (外控板随mdx框体更新)
+> https://github.com/freebird233/MaicroDX/tree/main
+
 <br>(焊盘位有留空)(12P的FPC座位于底层)
 
 <br> <br>
