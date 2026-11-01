@@ -36,8 +36,9 @@
 <br> <br> <br> 
 
 # 工作模式介绍
-maicrodx controller (以下简称mdxc) 共有两个模式，请依据你的使用场景确定方案后再开始制作<br>
+maicrodx controller (以下简称mdxc) 共有两个，请依据你的使用场景确定方案后再开始制作<br>
 <br> 
+2026.11补充说明: 给11英寸框体搭配的话，优先使用Release内发布的最新Gerber，最初版本FPC底座在底层会抢走屏幕的触控.
 <br>
 
 | **A_mode**  (短接STBY) | B_mode （开路STBY） |
